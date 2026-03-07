@@ -7,7 +7,7 @@ local Camera = workspace.CurrentCamera
 
 local AIM_KEY = Enum.KeyCode.Q
 local SNAP_SPEED = 0.4
-local TRIGGER_DIST = 25
+local TRIGGER_DIST = 35
 local TRIGGER_FOV = 20
 
 local BODY_PARTS = {
